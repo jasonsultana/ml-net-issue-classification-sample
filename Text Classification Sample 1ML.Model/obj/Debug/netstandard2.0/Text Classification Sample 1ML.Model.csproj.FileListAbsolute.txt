@@ -1,0 +1,10 @@
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\bin\Debug\netstandard2.0\Text Classification Sample 1ML.Model.deps.json
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\bin\Debug\netstandard2.0\Text Classification Sample 1ML.Model.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\bin\Debug\netstandard2.0\Text Classification Sample 1ML.Model.pdb
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\obj\Debug\netstandard2.0\Text Classification Sample 1ML.Model.csprojAssemblyReference.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\obj\Debug\netstandard2.0\Text Classification Sample 1ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\obj\Debug\netstandard2.0\Text Classification Sample 1ML.Model.AssemblyInfoInputs.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\obj\Debug\netstandard2.0\Text Classification Sample 1ML.Model.AssemblyInfo.cs
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\obj\Debug\netstandard2.0\Text Classification Sample 1ML.Model.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1ML.Model\obj\Debug\netstandard2.0\Text Classification Sample 1ML.Model.pdb

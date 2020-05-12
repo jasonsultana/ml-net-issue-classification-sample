@@ -1,0 +1,36 @@
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1.exe
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1.deps.json
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1.runtimeconfig.json
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1.runtimeconfig.dev.json
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1.pdb
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1ML.Model.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\bin\Debug\netcoreapp3.1\Text Classification Sample 1ML.Model.pdb
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.csprojAssemblyReference.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1_MarkupCompile.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1_MarkupCompile.lref
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.g.resources
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.csproj.CoreCompileInputs.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.AssemblyInfoInputs.cache
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.AssemblyInfo.cs
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.csproj.CopyComplete
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.dll
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.pdb
+C:\Users\LeapDev Developer\Desktop\Machine Learning\Text Classification Sample 1\Text Classification Sample 1\obj\Debug\netcoreapp3.1\Text Classification Sample 1.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Text_Classification_Sample_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Text_Classification_Sample_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Center" Margin="0,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" Height="52" KeyDown="txtInput_KeyDown"/>
+        <DataGrid x:Name="dgResults" Margin="10,98,10,98" RenderTransformOrigin="0.512,-0.268">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Label" IsReadOnly="True" Binding="{Binding Path=Label}" Width="200"></DataGridTextColumn>
+                <DataGridTextColumn Header="Score" IsReadOnly="True"  Binding="{Binding Path=Score}" Width="130"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
